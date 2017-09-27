@@ -12,11 +12,7 @@ body {
   max-width: 1240px;
   background-color: #f5f5f5;
     box-sizing: border-box;
-}
-@media (min-width: 320px) and (max-width: 479px){
-  body{
-    background-color:yellow;
-  }
+  background-color:yellow;}
 #banner{
     border: 1px solid black;
     width: 100%;
